@@ -1,1 +1,1 @@
-# Sonar_role
+.
